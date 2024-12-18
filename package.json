@@ -1,0 +1,35 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "This is foodapp by shrishti mishra",
+  "scripts": {
+    "start":"parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrishti0212/foodapp.git"
+  },
+  "keywords": [
+    "react",
+    "shrishti"
+  ],
+  "author": "Shrishti Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrishti0212/foodapp/issues"
+  },
+  "homepage": "https://github.com/shrishti0212/foodapp#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserlist":[
+    "last 2 versions"
+  ]
+}
